@@ -15,5 +15,5 @@ This is a simple C program to calculate the total and average marks of a student
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/student-marks-program.git
-   cd student-marks-program
+   git clone https://github.com/TechieRS/Basic_Score_card.git
+   cd Basic_Score_card
